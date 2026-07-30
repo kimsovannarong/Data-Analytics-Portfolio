@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 - [Kim Sovannarong - Data Analytics Portfolio](#kim-sovannarong---data-analytics-portfolio)
   - [🗺 About](#-about)
   - [📚 Table of Contents](#-table-of-contents)
-  - [Portfolio Projects](#portfolio-projects)
+  - [📂 Portfolio Projects](#-portfolio-projects)
     - [SQL](#sql)
   - [Python](#python)
     - [Machine Learning](#machine-learning)
@@ -25,7 +25,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 ---
 
-## Portfolio Projects
+## 📂 Portfolio Projects
 
 ### SQL
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> |
