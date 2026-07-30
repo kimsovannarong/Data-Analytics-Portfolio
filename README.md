@@ -16,9 +16,9 @@ This is a repository to showcase skills, share projects, and track my progress i
   - [📚 Table of Contents](#-table-of-contents)
   - [📂 Portfolio Projects](#-portfolio-projects)
     - [SQL](#sql)
-  - [Python](#python)
+    - [Python](#python)
     - [Machine Learning](#machine-learning)
-  - [Power BI](#power-bi)
+    - [Power BI](#power-bi)
   - [Education](#education)
   - [Certificates](#certificates)
   - [Contact](#contact)
@@ -33,7 +33,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 | 💡 [4-Weeks-SQL-Challenges](https://github.com/yourusername/4-Weeks-SQL-Challenges) | Data analysis, data cleaning, data transformation | Solutions for multi-case study SQL challenges demonstrating proficiency in query writing, aggregation, CTEs, and data transformation techniques. |
 | 🏫 [School Management System Database](https://github.com/yourusername/School-Management-System-Database) | Database design, schema modeling, DDL/DML | Designed and implemented a relational database for managing student enrollments, course schedules, instructor assignments, and academic performance tracking. |
 
-## Python
+### Python
 
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> | <div align="center">Libraries</div> |
 | :--- | :--- | :--- | :--- |
@@ -45,7 +45,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 | :--- | :--- | :--- | :--- |
 | 🔢 [Utility Meter Reading System](https://github.com/yourusername/meter-reading) | Computer Vision & OCR | Developed an automated computer vision pipeline to detect meter displays, crop bounding boxes, and accurately extract numerical digits from real-world utility meter images. | YOLOv11, EasyOCR, OpenCV, PyTorch |
 
-## Power BI
+### Power BI
 
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> |
 | :--- | :--- | :--- |
