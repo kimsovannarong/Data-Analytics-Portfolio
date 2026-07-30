@@ -19,9 +19,9 @@ This is a repository to showcase skills, share projects, and track my progress i
     - [Python](#python)
     - [Machine Learning](#machine-learning)
     - [Power BI](#power-bi)
-  - [Education](#education)
-  - [Certificates](#certificates)
-  - [Contact](#contact)
+  - [🎓 Education](#-education)
+  - [📜 Certificates](#-certificates)
+  - [🌐 Contact](#-contact)
 
 ---
 
@@ -53,7 +53,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 ---
 
-## Education
+## 🎓 Education
 
 * **Bachelor of Science in Computer Science**  
   *Cambodia Academy of Digital Technology (CADT)* | Phnom Penh, Cambodia (2022 – 2026)  
@@ -62,9 +62,9 @@ This is a repository to showcase skills, share projects, and track my progress i
 * **High School Diploma**  
   *Cheasim Takeo High School* | Takeo, Cambodia (2018 – 2022)
 
-## Certificates
+## 📜 Certificates
 * **Udemy Data Analytics Professional Certificate (Coming Soon)**
 
-## Contact
+## 🌐 Contact
 * **LinkedIn:** [linkedin.com/in/kimsovannarong](https://www.linkedin.com/in/kimsovannarong)
 * **Email:** [kimsovannarong590@gmail.com](mailto:kimsovannarong590@gmail.com)
