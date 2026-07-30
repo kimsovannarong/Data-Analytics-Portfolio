@@ -28,9 +28,10 @@ This is a repository to showcase skills, share projects, and track my progress i
 ## Portfolio Projects
 
 ### Data Engineering
-* **[Project Title](link-to-code)**
-  * **Goal:** ...
-  * **Description:** ...
+| Project Link | Tools / Tech Stack | Project Description |
+| :--- | :--- | :--- |
+| ⚡ [BB84 Quantum Key Simulator](https://github.com/yourusername/quantum-simulator) | Python, Qiskit, Jupyter | Built an interactive simulation platform for the BB84 Quantum Key Distribution protocol to model quantum state preparation, basis measurement, and key reconciliation steps. |
+| 🚗 [ETL Data Pipeline Project](https://github.com/yourusername/etl-pipeline) | Python, PostgreSQL, Airflow | Designed and deployed an end-to-end data pipeline to extract raw transactional data, transform key variables, and load structured tables into a data warehouse. |
 
 ### SQL
 * **[Project Title](link-to-code)**
