@@ -66,5 +66,5 @@ This is a repository to showcase skills, share projects, and track my progress i
 * **Udemy Data Analytics Professional Certificate (Coming Soon)**
 
 ## Contact
-* **LinkedIn:** [Your Link]
-* **Email:** [Your Email]
+* **LinkedIn:** [linkedin.com/in/kimsovannarong](https://www.linkedin.com/in/kimsovannarong)
+* **Email:** [kimsovannarong590@gmail.com](mailto:kimsovannarong590@gmail.com)
