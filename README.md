@@ -15,7 +15,6 @@ This is a repository to showcase skills, share projects, and track my progress i
   - [🗺 About](#-about)
   - [📚 Table of Contents](#-table-of-contents)
   - [Portfolio Projects](#portfolio-projects)
-    - [Data Engineering](#data-engineering)
     - [SQL](#sql)
     - [Python](#python)
     - [Power BI](#power-bi)
@@ -27,16 +26,11 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 ## Portfolio Projects
 
-### Data Engineering
-| Project Link | Tools / Tech Stack | Project Description |
-| :--- | :--- | :--- |
-| ⚡ [BB84 Quantum Key Simulator](https://github.com/yourusername/quantum-simulator) | Python, Qiskit, Jupyter | Built an interactive simulation platform for the BB84 Quantum Key Distribution protocol to model quantum state preparation, basis measurement, and key reconciliation steps. |
-| 🚗 [ETL Data Pipeline Project](https://github.com/yourusername/etl-pipeline) | Python, PostgreSQL, Airflow | Designed and deployed an end-to-end data pipeline to extract raw transactional data, transform key variables, and load structured tables into a data warehouse. |
-
 ### SQL
-* **[Project Title](link-to-code)**
-  * **Goal:** ...
-  * **Description:** ...
+| Project Link | Area | Project Description |
+| :--- | :--- | :--- |
+| 💡 [4-Weeks-SQL-Challenges](https://github.com/yourusername/4-Weeks-SQL-Challenges) | Data analysis, data cleaning, data transformation | Solutions for multi-case study SQL challenges demonstrating proficiency in query writing, aggregation, CTEs, and data transformation techniques. |
+| 🏫 [School Management System Database](https://github.com/yourusername/School-Management-System-Database) | Database design, schema modeling, DDL/DML | Designed and implemented a relational database for managing student enrollments, course schedules, instructor assignments, and academic performance tracking. |
 
 ### Python
 * **[Project Title](link-to-code)**
