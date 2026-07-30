@@ -1,6 +1,6 @@
-# 🗺 Kim Sovannarong - Data Analytics Portfolio
+# Kim Sovannarong - Data Analytics Portfolio
 
-## About
+## 🗺 About
 
 Hi, I'm Kim Sovannarong! I am a Computer Science graduate with hands-on experience in data pipelines, machine learning workflows, and statistical analysis. Skilled in data cleaning, exploratory data analysis (EDA), and deploying analytical models to uncover trends, I am passionate about translating complex datasets into clear, impactful strategies for stakeholders.
 
@@ -11,8 +11,8 @@ My CV in [pdf](CV.pdf).
 This is a repository to showcase skills, share projects, and track my progress in Data Analytics, Machine Learning, and Data Science related topics.
 
 ## 📚 Table of Contents
-- [🗺 Kim Sovannarong - Data Analytics Portfolio](#-kim-sovannarong---data-analytics-portfolio)
-  - [About](#about)
+- [Kim Sovannarong - Data Analytics Portfolio](#kim-sovannarong---data-analytics-portfolio)
+  - [🗺 About](#-about)
   - [📚 Table of Contents](#-table-of-contents)
   - [Portfolio Projects](#portfolio-projects)
     - [Data Engineering](#data-engineering)
