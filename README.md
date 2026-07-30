@@ -49,7 +49,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> |
 | :--- | :--- | :--- |
-| 🚧 *Sales & Revenue Dashboard (In Progress)* | Interactive Business Intelligence & Visualization | Developing an interactive Power BI dashboard featuring DAX measures and custom visuals to analyze store performance and revenue growth trends. |
+| 🚧 *Claim Analysis & Risk Pricing Modeling (In Progress)* | Risk Analytics & Actuarial Dashboard | Designing an interactive Power BI dashboard to analyze insurance claim patterns, evaluate loss ratios, and model risk pricing segments using DAX and statistical visual analytics. |
 
 ---
 
