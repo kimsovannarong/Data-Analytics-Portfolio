@@ -33,9 +33,11 @@ This is a repository to showcase skills, share projects, and track my progress i
 | 🏫 [School Management System Database](https://github.com/yourusername/School-Management-System-Database) | Database design, schema modeling, DDL/DML | Designed and implemented a relational database for managing student enrollments, course schedules, instructor assignments, and academic performance tracking. |
 
 ### Python
-* **[Project Title](link-to-code)**
-  * **Goal:** ...
-  * **Description:** ...
+| <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> | <div align="center">Libraries</div> |
+| :--- | :--- | :--- | :--- |
+| 🔢 [Utility Meter Reading System](https://github.com/yourusername/meter-reading) | Computer Vision & OCR | Developed an automated computer vision pipeline to detect meter displays, crop bounding boxes, and accurately extract numerical digits from real-world utility meter images. | YOLOv11, EasyOCR, OpenCV, PyTorch |
+| 🎬 [Movie Success Factor Analysis](https://github.com/yourusername/movie-analysis) | EDA & Statistical Analysis | Performed exploratory data analysis (EDA) and correlation testing on a multi-decade movie dataset to uncover drivers of gross revenue. | Pandas, NumPy, Seaborn, Matplotlib, SciPy |
+| 🛍️ [Super Store Sales Analysis](https://github.com/yourusername/store-analysis) | Exploratory Data Analysis | Evaluated retail sales transactions to identify highest-performing product categories, seasonal trends, and key customer segments. | Pandas, Matplotlib, Seaborn |
 
 ### Power BI
 * **[Project Title](link-to-code)**
