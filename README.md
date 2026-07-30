@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects, and track my progress i
   - [📚 Table of Contents](#-table-of-contents)
   - [Portfolio Projects](#portfolio-projects)
     - [SQL](#sql)
-    - [Python](#python)
+  - [Python](#python)
     - [Power BI](#power-bi)
   - [Education](#education)
   - [Certificates](#certificates)
@@ -32,12 +32,12 @@ This is a repository to showcase skills, share projects, and track my progress i
 | 💡 [4-Weeks-SQL-Challenges](https://github.com/yourusername/4-Weeks-SQL-Challenges) | Data analysis, data cleaning, data transformation | Solutions for multi-case study SQL challenges demonstrating proficiency in query writing, aggregation, CTEs, and data transformation techniques. |
 | 🏫 [School Management System Database](https://github.com/yourusername/School-Management-System-Database) | Database design, schema modeling, DDL/DML | Designed and implemented a relational database for managing student enrollments, course schedules, instructor assignments, and academic performance tracking. |
 
-### Python
+## Python
+
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> | <div align="center">Libraries</div> |
 | :--- | :--- | :--- | :--- |
-| 🔢 [Utility Meter Reading System](https://github.com/yourusername/meter-reading) | Computer Vision & OCR | Developed an automated computer vision pipeline to detect meter displays, crop bounding boxes, and accurately extract numerical digits from real-world utility meter images. | YOLOv11, EasyOCR, OpenCV, PyTorch |
-| 🎬 [Movie Success Factor Analysis](https://github.com/yourusername/movie-analysis) | EDA & Statistical Analysis | Performed exploratory data analysis (EDA) and correlation testing on a multi-decade movie dataset to uncover drivers of gross revenue. | Pandas, NumPy, Seaborn, Matplotlib, SciPy |
-| 🛍️ [Super Store Sales Analysis](https://github.com/yourusername/store-analysis) | Exploratory Data Analysis | Evaluated retail sales transactions to identify highest-performing product categories, seasonal trends, and key customer segments. | Pandas, Matplotlib, Seaborn |
+| 🩺 [Diabetes Prediction System](https://github.com/yourusername/Diabetes-Prediction-System) | Machine Learning & Predictive Modeling | Built and evaluated classification models to predict diabetes risk based on diagnostic clinical features, incorporating data preprocessing, feature scaling, and model evaluation metrics. | Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib |
+| 🎓 [Student Performance Analysis](https://github.com/yourusername/Student-Performance-Analysis) | Exploratory Data Analysis & EDA | Analyzed academic performance datasets to uncover key demographic, social, and study-habit factors influencing student grades and performance outcomes. | Pandas, NumPy, Matplotlib, Seaborn |
 
 ### Power BI
 * **[Project Title](link-to-code)**
