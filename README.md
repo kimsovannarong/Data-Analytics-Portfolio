@@ -18,6 +18,7 @@ This is a repository to showcase skills, share projects, and track my progress i
     - [SQL](#sql)
   - [Python](#python)
     - [Machine Learning](#machine-learning)
+  - [Power BI](#power-bi)
   - [Education](#education)
   - [Certificates](#certificates)
   - [Contact](#contact)
@@ -43,6 +44,12 @@ This is a repository to showcase skills, share projects, and track my progress i
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> | <div align="center">Libraries</div> |
 | :--- | :--- | :--- | :--- |
 | 🔢 [Utility Meter Reading System](https://github.com/yourusername/meter-reading) | Computer Vision & OCR | Developed an automated computer vision pipeline to detect meter displays, crop bounding boxes, and accurately extract numerical digits from real-world utility meter images. | YOLOv11, EasyOCR, OpenCV, PyTorch |
+
+## Power BI
+
+| <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> |
+| :--- | :--- | :--- |
+| 🚧 *Sales & Revenue Dashboard (In Progress)* | Interactive Business Intelligence & Visualization | Developing an interactive Power BI dashboard featuring DAX measures and custom visuals to analyze store performance and revenue growth trends. |
 
 ---
 
