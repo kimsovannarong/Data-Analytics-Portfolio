@@ -17,7 +17,7 @@ This is a repository to showcase skills, share projects, and track my progress i
   - [Portfolio Projects](#portfolio-projects)
     - [SQL](#sql)
   - [Python](#python)
-    - [Power BI](#power-bi)
+    - [Machine Learning](#machine-learning)
   - [Education](#education)
   - [Certificates](#certificates)
   - [Contact](#contact)
@@ -36,13 +36,13 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> | <div align="center">Libraries</div> |
 | :--- | :--- | :--- | :--- |
-| 🩺 [Diabetes Prediction System](https://github.com/yourusername/Diabetes-Prediction-System) | Machine Learning & Predictive Modeling | Built and evaluated classification models to predict diabetes risk based on diagnostic clinical features, incorporating data preprocessing, feature scaling, and model evaluation metrics. | Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib |
-| 🎓 [Student Performance Analysis](https://github.com/yourusername/Student-Performance-Analysis) | Exploratory Data Analysis & EDA | Analyzed academic performance datasets to uncover key demographic, social, and study-habit factors influencing student grades and performance outcomes. | Pandas, NumPy, Matplotlib, Seaborn |
+| 🩺 [Diabetes Prediction System](https://github.com/yourusername/Diabetes-Prediction-System) | Data Wrangling, EDA, Prediction Modeling| Built and evaluated classification models to predict diabetes risk based on diagnostic clinical features, incorporating data preprocessing, feature scaling, and model evaluation metrics. | Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib |
+| 🎓 [Student Performance Analysis](https://github.com/yourusername/Student-Performance-Analysis) | Data Wrangling, EDA, Data Visualization | Analyzed academic performance datasets to uncover key demographic, social, and study-habit factors influencing student grades and performance outcomes. | Pandas, NumPy, Matplotlib, Seaborn |
 
-### Power BI
-* **[Project Title](link-to-code)**
-  * **Goal:** ...
-  * **Description:** ...
+### Machine Learning
+| <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> | <div align="center">Libraries</div> |
+| :--- | :--- | :--- | :--- |
+| 🔢 [Utility Meter Reading System](https://github.com/yourusername/meter-reading) | Computer Vision & OCR | Developed an automated computer vision pipeline to detect meter displays, crop bounding boxes, and accurately extract numerical digits from real-world utility meter images. | YOLOv11, EasyOCR, OpenCV, PyTorch |
 
 ---
 
