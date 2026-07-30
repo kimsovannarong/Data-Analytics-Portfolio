@@ -1,4 +1,4 @@
-# Kim Sovannarong - Data Analysis Portfolio
+# 🗺 Kim Sovannarong - Data Analytics Portfolio
 
 ## About
 
@@ -10,10 +10,10 @@ My CV in [pdf](CV.pdf).
 
 This is a repository to showcase skills, share projects, and track my progress in Data Analytics, Machine Learning, and Data Science related topics.
 
-## Table of Contents
-- [Kim Sovannarong - Data Analysis Portfolio](#kim-sovannarong---data-analysis-portfolio)
+## 📚 Table of Contents
+- [🗺 Kim Sovannarong - Data Analytics Portfolio](#-kim-sovannarong---data-analytics-portfolio)
   - [About](#about)
-  - [Table of Contents](#table-of-contents)
+  - [📚 Table of Contents](#-table-of-contents)
   - [Portfolio Projects](#portfolio-projects)
     - [Data Engineering](#data-engineering)
     - [SQL](#sql)
