@@ -54,10 +54,16 @@ This is a repository to showcase skills, share projects, and track my progress i
 ---
 
 ## Education
-* **Bachelor of Science in Computer Science**
+
+* **Bachelor of Science in Computer Science**  
+  *Cambodia Academy of Digital Technology (CADT)* | Phnom Penh, Cambodia (2022 – 2026)  
+  *Specialization: Software Engineering*
+
+* **High School Diploma**  
+  *Cheasim Takeo High School* | Takeo, Cambodia (2018 – 2022)
 
 ## Certificates
-* **Google Data Analytics Professional Certificate**
+* **Udemy Data Analytics Professional Certificate (Coming Soon)**
 
 ## Contact
 * **LinkedIn:** [Your Link]
