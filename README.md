@@ -1,4 +1,4 @@
-# Kim Sovannarong - Data Analysis & Machine Learning Portfolio
+# Kim Sovannarong - Data Analytics Portfolio
 
 ## About
 
@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 ---
 
 ## Table of Contents
-- [Kim Sovannarong - Data Analysis \& Machine Learning Portfolio](#kim-sovannarong---data-analysis--machine-learning-portfolio)
+- [Kim Sovannarong - Data Analytics Portfolio](#kim-sovannarong---data-analytics-portfolio)
   - [About](#about)
   - [Table of Contents](#table-of-contents)
   - [Portfolio Projects](#portfolio-projects)
