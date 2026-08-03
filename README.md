@@ -32,6 +32,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 | :--- | :--- | :--- |
 | 💡 [4-Weeks-SQL-Challenges](https://github.com/yourusername/4-Weeks-SQL-Challenges) | Data analysis, data cleaning, data transformation | Solutions for multi-case study SQL challenges demonstrating proficiency in query writing, aggregation, CTEs, and data transformation techniques. |
 | 🏫 [University Database Management System](https://github.com/kimsovannarong/University-Database-Management-System-) | Database design, schema modeling, DDL/DML | Designed and implemented a relational database for managing student enrollments, course schedules, instructor assignments, and academic performance tracking. |
+| 🏢 [Enterprise Employee Database System]([https://github.com/kimsovannarong/Enterprise-Employee-Database-System](https://github.com/kimsovannarong/Employee-DBMS-Transactions-Partitioning-Stored-Procedures)) | Stored Procedures, Table Partitioning, ACID Transactions | Architected an enterprise MySQL workforce database featuring range partitioning for payroll history, stored procedures for automated business logic, and atomic ACID transactions with rollback exception handlers. |
 
 ### Python
 
