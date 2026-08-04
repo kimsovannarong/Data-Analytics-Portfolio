@@ -39,7 +39,8 @@ This is a repository to showcase skills, share projects, and track my progress i
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> | <div align="center">Libraries</div> |
 | :--- | :--- | :--- | :--- |
 | 🩺 [End-to-End Diabetes Prediction with Gradio UI](https://github.com/kimsovannarong/End-to-End-Diabetes-Prediction-with-Gradio) | Data Wrangling, EDA, Prediction Modeling| Built and evaluated classification models to predict diabetes risk based on diagnostic clinical features, incorporating data preprocessing, feature scaling, and model evaluation metrics. | Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib |
-| 🎓 [Students Performance Analysis & Insights](https://github.com/kimsovannarong/Student-Performance-Analysis) | Data Wrangling, EDA, Data Visualization | Analyzed academic performance datasets to uncover key demographic, social, and study-habit factors influencing student grades and performance outcomes. | Pandas, NumPy, Matplotlib, Seaborn |
+| 🎓 [Students Performance Analysis & Insights](https://github.com/kimsovannarong/Student-Performance-Analysis) | Data Wrangling, EDA, Data Visualization | Analyzed academic performance datasets to uncover key demographic, social, and study-habit factors influencing student grades and performance outcomes. | Pandas, NumPy, Matplotlib, Seaborn ,Scikit-Learn|
+| 🎓 [Student Exam Score Analysis](https://github.com/kimsovannarong/Student-Exam-Score-Analysis) | Data Wrangling, EDA, Data Visualization | Performed EDA and feature interaction analysis on 30,000+ student records to identify top behavioral and socioeconomic drivers of test scores. | Pandas, NumPy, Matplotlib, Seaborn|
 
 ### Machine Learning
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> | <div align="center">Libraries</div> |
