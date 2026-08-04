@@ -44,7 +44,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 ### Machine Learning
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> | <div align="center">Libraries</div> |
 | :--- | :--- | :--- | :--- |
-| 🔢 [Utility Meter Reading System](https://github.com/yourusername/meter-reading) | Computer Vision & OCR | Developed an automated computer vision pipeline to detect meter displays, crop bounding boxes, and accurately extract numerical digits from real-world utility meter images. | YOLOv11, EasyOCR, OpenCV, PyTorch |
+| 🔢 [Utility Meter Reading System](https://github.com/kimsovannarong/Utility_meter_reading_system) | Computer Vision & OCR | Developed an automated computer vision pipeline to detect meter displays, crop bounding boxes, and accurately extract numerical digits from real-world utility meter images. | YOLOv11, EasyOCR, OpenCV, PyTorch |
 
 ### Power BI
 
