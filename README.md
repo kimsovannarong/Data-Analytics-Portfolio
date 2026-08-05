@@ -6,7 +6,7 @@ Hi, I'm Kim Sovannarong! I am a Computer Science graduate with hands-on experien
 
 During my studies and technical projects, I honed my ability to work with complex data, train computer vision models, and build automated data pipelines. I have gained practical experience in optical character recognition (OCR), object detection workflows, data management, and statistical modeling—all focused on delivering functional, data-driven solutions.
 
-My CV in [pdf](CV.pdf).
+My CV in [pdf](https://github.com/kimsovannarong/Data-Analytics-Portfolio/blob/d9f1efb5e3f626de06fe4309b47e2509f032cafd/Kim_Sovannarong-CV.pdf).
 
 This is a repository to showcase skills, share projects, and track my progress in Data Analytics, Machine Learning, and Data Science related topics.
 
