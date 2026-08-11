@@ -15,6 +15,7 @@ This is a repository to showcase skills, share projects, and track my progress i
   - [🗺 About](#-about)
   - [📚 Table of Contents](#-table-of-contents)
   - [📂 Portfolio Projects](#-portfolio-projects)
+    - [Excel](#excel)
     - [SQL](#sql)
     - [Python](#python)
     - [Machine Learning](#machine-learning)
