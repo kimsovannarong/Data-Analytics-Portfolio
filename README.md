@@ -26,6 +26,11 @@ This is a repository to showcase skills, share projects, and track my progress i
 ---
 
 ## 📂 Portfolio Projects
+### Excel
+| <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> |
+| :--- | :--- | :--- |
+| 💡 [Netflix Data Cleaning & Exploratory Analysis](https://github.com/yourusername/4-Weeks-SQL-Challenges) | Data analysis, data cleaning, data transformation | Solutions for multi-case study SQL challenges demonstrating proficiency in query writing, aggregation, CTEs, and data transformation techniques. |
+
 
 ### SQL
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> |
