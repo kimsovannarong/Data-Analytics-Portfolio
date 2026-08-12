@@ -30,7 +30,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 ### Excel
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> |
 | :--- | :--- | :--- |
-| 💡 [Netflix Data Cleaning & Exploratory Analysis](https://github.com/yourusername/4-Weeks-SQL-Challenges) | Data analysis, data cleaning, data transformation | Solutions for multi-case study SQL challenges demonstrating proficiency in query writing, aggregation, CTEs, and data transformation techniques. |
+| 💡 [Netflix Data Cleaning & Exploratory Analysis](https://github.com/kimsovannarong/Netflix-Data-Cleaning-Exploratory-Analysis) | Data Exploratory analysis, data cleaning, data transformation | End-to-end data manipulation and exploratory analysis on Netflix catalog data using Excel functions (SUMIFS, UNIQUE, XLOOKUP) and multi-dimensional Pivot Tables to answer key business questions. |
 
 
 ### SQL
