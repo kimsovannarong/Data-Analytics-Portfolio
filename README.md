@@ -31,7 +31,6 @@ This is a repository to showcase skills, share projects, and track my progress i
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> |
 | :--- | :--- | :--- |
 | 💡 [Netflix Data Cleaning & Exploratory Analysis](https://github.com/kimsovannarong/Netflix-Data-Cleaning-Exploratory-Analysis) | Data exploratory analysis, data cleaning, data transformation | End-to-end data manipulation and exploratory analysis on Netflix catalog data using Excel functions (SUMIFS, UNIQUE, XLOOKUP) and multi-dimensional Pivot Tables to answer key business questions. |
-| 💡 [Sale Data Cleaning & Standardization Using Excel](https://github.com/kimsovannarong/Sales-Data-Cleaning-Standardisation-Using-Excel) | Data exploratory analysis, data cleaning, data transformation | End-to-end data manipulation and exploratory analysis on Netflix catalog data using Excel functions (SUMIFS, UNIQUE, XLOOKUP) and multi-dimensional Pivot Tables to answer key business questions. |
 | 💡 [Sales Data Cleaning & Standardization Using Excel](https://github.com/kimsovannarong/Sales-Data-Cleaning-Standardisation-Using-Excel) | Data Cleaning, Data Transformation, Data Validation | A step-by-step data cleaning and quality assurance pipeline in Excel—handling deduplication, text normalization (TRIM), missing value imputation, spelling checks, and data validation rules. |
 
 
