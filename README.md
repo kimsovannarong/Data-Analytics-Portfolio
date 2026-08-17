@@ -72,7 +72,8 @@ This is a repository to showcase skills, share projects, and track my progress i
   *Cheasim Takeo High School* | Takeo, Cambodia (2018 – 2022)
 
 ## 📜 Certificates
-* **Udemy Data Analytics Professional Certificate (Coming Soon)**
+* **Udemy Data Analytics Professional Certificate** *(Coming Soon)*
+* **[HackerRank SQL (Intermediate Level) Certificate](https://www.hackerrank.com/certificates/48B01C17D461)**
 
 ## 🌐 Contact
 * **LinkedIn:** [linkedin.com/in/kimsovannarong](https://www.linkedin.com/in/kimsovannarong)
