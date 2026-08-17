@@ -73,7 +73,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 ## 📜 Certificates
 * **Udemy Data Analytics Professional Certificate** *(Coming Soon)*
-* **[HackerRank SQL (Intermediate Level) Certificate](https://www.hackerrank.com/certificates/48B01C17D461)**
+* **[HackerRank SQL (Intermediate Level) Certificate](https://github.com/kimsovannarong/Data-Analytics-Portfolio/blob/34cb2116c81cd0796cf6cc03b65291f096142f0c/sql_intermediate%20certificate%20by%20hacker%20rank.pdf)**
 
 ## 🌐 Contact
 * **LinkedIn:** [linkedin.com/in/kimsovannarong](https://www.linkedin.com/in/kimsovannarong)
