@@ -58,8 +58,8 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> |
 | :--- | :--- | :--- |
-| 🚧 *Claim Analysis & Risk Pricing Modeling (In Progress)* | Risk Analytics & Actuarial Dashboard | Designing an interactive Power BI dashboard to analyze insurance claim patterns, evaluate loss ratios, and model risk pricing segments using DAX and statistical visual analytics. |
-
+| 📊 [Telco Customer Churn Analysis]()| Customer Retention & Revenue Analytics | Built an interactive Power BI dashboard to analyze customer churn drivers, calculate core DAX metrics, and deliver targeted retention strategies. |
+| 🚚 Cross-Regional Commercial Transportation & Vehicle Sales Intelligence Dashboard| Commercial Sales & Vehicle Analytics | Cleaned and structured raw transportation data using MySQL and Power BI to analyze cross-regional sales metrics and visualize commercial trends. |
 ---
 
 ## 🎓 Education
