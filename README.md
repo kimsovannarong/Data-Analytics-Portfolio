@@ -37,7 +37,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 ### SQL
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> |
 | :--- | :--- | :--- |
-| 💡 [4-Weeks-SQL-Challenges](https://github.com/yourusername/4-Weeks-SQL-Challenges) | Data analysis, data cleaning, data transformation | Solutions for multi-case study SQL challenges demonstrating proficiency in query writing, aggregation, CTEs, and data transformation techniques. |
+| 💡 [4-Weeks-SQL-Challenges](https://github.com/kimsovannarong/4-week-sql-challenges) | Data analysis, data cleaning, data transformation | Solutions for multi-case study SQL challenges demonstrating proficiency in query writing, aggregation, CTEs, and data transformation techniques. |
 | 🏫 [University Database Management System](https://github.com/kimsovannarong/University-Database-Management-System-) | Database design, schema modeling, DDL/DML | Designed and implemented a relational database for managing student enrollments, course schedules, instructor assignments, and academic performance tracking. |
 | 🏢 [Enterprise Employee Database System](https://github.com/kimsovannarong/Employee-DBMS-Transactions-Partitioning-Stored-Procedures) | Stored Procedures, Table Partitioning, ACID Transactions | Architected an enterprise MySQL workforce database featuring range partitioning for payroll history, stored procedures for automated business logic, and atomic ACID transactions with rollback exception handlers. |
 
@@ -58,8 +58,8 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> |
 | :--- | :--- | :--- |
-| 📊 [Telco Customer Churn Analysis]()| Customer Retention & Revenue Analytics | Built an interactive Power BI dashboard to analyze customer churn drivers, calculate core DAX metrics, and deliver targeted retention strategies. |
-| 🚚 Cross-Regional Commercial Transportation & Vehicle Sales Intelligence Dashboard| Commercial Sales & Vehicle Analytics | Cleaned and structured raw transportation data using MySQL and Power BI to analyze cross-regional sales metrics and visualize commercial trends. |
+| 📊 [Customer Churn Analysis](https://github.com/kimsovannarong/Customer-Churn-Analysis)| Telco Customer Retention & Revenue Analytics | Built an interactive Power BI dashboard to analyze customer churn drivers, calculate core DAX metrics, and deliver targeted retention strategies. |
+| 🚚 [Cross-Regional Commercial Transportation & Vehicle Sales Intelligence Dashboard(In Progress)]| Commercial Sales & Vehicle Analytics | Cleaned and structured raw transportation data using MySQL and Power BI to analyze cross-regional sales metrics and visualize commercial trends. |
 ---
 
 ## 🎓 Education
