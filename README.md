@@ -72,7 +72,7 @@ This is a repository to showcase skills, share projects, and track my progress i
   *Cheasim Takeo High School* | Takeo, Cambodia (2018 – 2022)
 
 ## 📜 Certificates
-* **[Data Analysis | SQL, Tableau, Power BI & Excel — Udemy]()
+* **[Data Analysis | SQL, Tableau, Power BI & Excel — Udemy](https://github.com/kimsovannarong/Data-Analytics-Portfolio/blob/36d37de331193f3f864a346af01bd4227364aad4/Data%20Analysis%20Udemy%20Certificate%20of%20Completion.pdf)
 * **[HackerRank SQL (Intermediate Level) Certificate](https://github.com/kimsovannarong/Data-Analytics-Portfolio/blob/34cb2116c81cd0796cf6cc03b65291f096142f0c/sql_intermediate%20certificate%20by%20hacker%20rank.pdf)**
 
 ## 🌐 Contact
