@@ -59,7 +59,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 | <div align="center">Project Link</div> | <div align="center">Area</div> | <div align="center">Project Description</div> |
 | :--- | :--- | :--- |
 | 📊 [Customer Churn Analysis](https://github.com/kimsovannarong/Customer-Churn-Analysis)| Telco Customer Retention & Revenue Analytics | Built an interactive Power BI dashboard to analyze customer churn drivers, calculate core DAX metrics, and deliver targeted retention strategies. |
-| 🚚 [Cross-Regional Commercial Transportation & Vehicle Sales Intelligence Dashboard(In Progress)]| Commercial Sales & Vehicle Analytics | Cleaned and structured raw transportation data using MySQL and Power BI to analyze cross-regional sales metrics and visualize commercial trends. |
+| 🚚 Cross-Regional Commercial Transportation & Vehicle Sales Intelligence Dashboard(In Progress)| Commercial Sales & Vehicle Analytics | Cleaned and structured raw transportation data using MySQL and Power BI to analyze cross-regional sales metrics and visualize commercial trends. |
 ---
 
 ## 🎓 Education
@@ -72,7 +72,7 @@ This is a repository to showcase skills, share projects, and track my progress i
   *Cheasim Takeo High School* | Takeo, Cambodia (2018 – 2022)
 
 ## 📜 Certificates
-* **Udemy Data Analytics Professional Certificate** *(Coming Soon)*
+* **[Data Analysis | SQL, Tableau, Power BI & Excel — Udemy]()
 * **[HackerRank SQL (Intermediate Level) Certificate](https://github.com/kimsovannarong/Data-Analytics-Portfolio/blob/34cb2116c81cd0796cf6cc03b65291f096142f0c/sql_intermediate%20certificate%20by%20hacker%20rank.pdf)**
 
 ## 🌐 Contact
